@@ -1,3 +1,4 @@
+![Image](https://i.postimg.cc/WpHkznS1/pic.jpg)
 # Milana Zadorozhna
 _Contacts:_ 
 * Email - milanaz.z12345@gmail.com
