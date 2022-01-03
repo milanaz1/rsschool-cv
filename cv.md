@@ -12,16 +12,9 @@ _Skills:_
 
 _HTML code example:_ 
 ```
-<h2 id="List">Unordered list</h2>
-    <ul>
-        <li>List item 1</li>
-         <li>List item 2
-            <ul>
-                <li>Some nested list item 1</li>
-            </ul>
-         </li>
-        <li>List item 3</li>
-    </ul> 
+function multiply(a, b){
+  a * b
+}
 ```
 
 _Education:_ 
