@@ -14,12 +14,13 @@ _Skills:_
 _HTML code example:_ 
 ```
 function multiply(a, b){
-  a * b
+ return a * b
 }
 ```
 
-_Education:_ 
-* HTML, CSS and JS courses on codeacademy.com. 
-* Basic JavaScript and Basic HTML and HTML5 on freecodecamp.org 
+_Education:_
+* HTML, CSS and JS courses on [codeacademy.com](https://www.codecademy.com/learn). 
+* Basic JavaScript and Basic HTML and HTML5 on [freecodecamp.org](https://www.freecodecamp.org/learn) 
+* [Project](https://milanaz1.github.io/rsschool-cv/cv)
 
 _English level:_ C1. 
