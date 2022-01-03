@@ -23,3 +23,9 @@ HTML code example:
         <li>List item 3</li>
     </ul> 
 ```
+
+Education: 
+* HTML, CSS and JS courses on codeacademy.com. 
+* Basic JavaScript and Basic HTML and HTML5 on freecodecamp.org 
+
+English level: C1. 
