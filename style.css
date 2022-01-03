@@ -22,6 +22,10 @@ main {
 img[alt~="profile"] {
     border: 2px solid #e9eea1;
     height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 h1 {
@@ -33,6 +37,7 @@ h1 {
 h2 {
     color: black;
     text-shadow: 0 0 3px #e4e3af;
+    text-align: center;
 }
 footer {
     background-color: #e7cce3
