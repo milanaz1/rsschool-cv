@@ -1,0 +1,48 @@
+header {
+    background-color: #e7cce3;
+}
+
+.navbar a {
+    color: white;
+    font-size: 30px;
+    margin: 150px;
+    padding: 0;
+
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: #e7cce3;
+}
+
+img[alt~="profile"] {
+    border: 2px solid #e9eea1;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 3px #e9eea1;
+}
+
+h2 {
+    color: black;
+    text-shadow: 0 0 3px #e4e3af;
+}
+footer {
+    background-color: #e7cce3
+}
+
+img[alt~="rslogo"] {
+    border: 2px solid black;
+    height: 50px;
+}
+
+.year {
+    text-align:center;
+}
